@@ -9,8 +9,6 @@ post-card-type: article
 ---
 
 
-# inserted deleted 在触发器中的应用举例说明
----
 *学到触发器的时候看到有`inserted`以及`deleted`表，不明所以，上网查询之后发现这篇文章通过举例说明来讲解，通俗易懂。稍加整理之后留作以后查阅。*
 
 ```
