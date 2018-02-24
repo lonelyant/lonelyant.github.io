@@ -4,7 +4,7 @@ title:          inserted deleted 在触发器中的应用举例说明
 subtitle:       inserted deleted in the trigger application examples
 card-image:     
 date:           2018-2-25 00:20:15
-tags:           code1
+tags:           code
 post-card-type: article
 ---
 
