@@ -1,9 +1,9 @@
 # Basic
-title: WngLMng's Blog
-author: WngLMng
-description: 嗨，我是王立明，一名来自黑龙江省鹤岗市的男生。<br/>现于无线生活（北京），从事互联网开发工作。
+title: LonelyAnt's Blog
+author: LonelyAnt
+description: 立志成为一名大牛。<br/>爱一个人，攀一座山，追一个梦。
 
-url: "https://wnglmng.com"
+url: "https://www.antchenxi.com"
 
 permalink: /:year/:month/:title/
 
@@ -15,12 +15,11 @@ redcarpet:
 
 # Pagination
 gems: [jekyll-paginate]
-paginate: 15
+paginate: 10
 paginate_path: "pages/:num/"
 
 # Social
 social:
-    weibo: sunmoon1993
-    github: wnglmng
-    gplus: 112547382138552250597
-    mail: wnglmng@gmail.com
+    weibo: Lonely_Ant
+    github: lonelyant
+    mail: lonelyant404@gmail.com
