@@ -15,7 +15,7 @@ subtitle:   立志成为一名大牛<br/>爱一个人，攀一座山，追一个
                 <div class="card card--article not-visible">
                     <div class="card-body">
                         <div class="card-title card-title--articleIfNoImage">{{ post.title }}</div>
-                        <p class="card-description card-description--clamp-14">“{{ post.subtitle }}”</p>
+                        <p class="card-description card-description--clamp-14">{{ post.subtitle }}</p>
                         <p class="card-description card-article-preview">
                             {{ post.content | strip_html | strip_newlines | truncate: 350 }}
                         </p>
