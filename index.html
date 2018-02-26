@@ -23,7 +23,7 @@ subtitle:   立志成为一名大牛<br/>爱一个人，攀一座山，追一个
                     </div>
                     <div class="card-footer">
                         <div class="card-footer-wrapper" layout="row bottom-left">
-                            <div class="card-type is-notShownIfHover">{{ post.date | date: "%F"}}</div>
+                            <div class="card-type is-notShownIfHover">{{ post.date | date: "%F %R"}}</div>
                             <div class="card-tag is-notShownIfHover">@{{ site.author }}</div>
                             <div class="card-tag is-shownIfHover">
                                 {% for tag in post.tags %}
