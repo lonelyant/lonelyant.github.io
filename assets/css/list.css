@@ -63,7 +63,7 @@ hr {
 .container--sidebar .selected {
 	color: #4B4F56;
 }
-
+/* max-width: 1225px */
 @media only screen and (max-width: 1225px) {
 	.sidebar-title{
 		display:none;
@@ -110,8 +110,8 @@ hr {
 		color: #90949C;
 	}
 }
-
-@media only screen and (max-width: 890px) {
+/* max-width: 890px */
+@media only screen and (max-width: 395px) {
 	.list-container {
 		width:395px;
 	}
