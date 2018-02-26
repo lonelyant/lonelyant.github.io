@@ -1,7 +1,6 @@
 ﻿---
 layout:         post
-title:          inserted deleted 在触发器中的应用举例说明
-subtitle:       
+title:          inserted deleted 在触发器中的应用举例说明      
 card-image:     
 date:           2018-2-25 00:20:15
 tags:           数据库
