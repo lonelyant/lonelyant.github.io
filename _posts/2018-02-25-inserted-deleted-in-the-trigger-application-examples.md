@@ -1,7 +1,7 @@
 ﻿---
 layout:         post
 title:          inserted deleted 在触发器中的应用举例说明
-subtitle:       inserted deleted in the trigger application examples
+subtitle:       
 card-image:     
 date:           2018-2-25 00:20:15
 tags:           数据库
