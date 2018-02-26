@@ -111,9 +111,10 @@ hr {
 	}
 }
 /* max-width: 890px */
-@media only screen and (max-width: 395px) {
+@media only screen and (max-width: 360px) {
+	/* width:395px; */
 	.list-container {
-		width:395px;
+		width:350px;
 	}
 	.container--sidebar {
 		display:none;
