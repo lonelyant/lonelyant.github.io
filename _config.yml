@@ -15,7 +15,7 @@ Kramdown:
 
 # Pagination
 gems: [jekyll-paginate]
-paginate: 15
+paginate: 12
 paginate_path: "pages/:num/"
 
 # Social
