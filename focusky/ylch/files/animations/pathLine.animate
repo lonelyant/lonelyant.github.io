@@ -1,0 +1,18 @@
+/* 
+  Name:			Path Line
+  Type:			Path
+  Description:	Path Line Effect
+  Version:		2.0	
+  locale:		{"zh-Hans":"线条路径", "en-US":"Path Line"}
+  Class:        PathEffect
+  Order:		01
+  Parameter:    <^	{"Options":{"times":1, "useHand":false}, "MotionPath":{"version":"1.0", "rotateType":"None","rect":[0,0,100,100],"isClose":false,"nodeInfos":[{"alpha":1,"rotation":0,"position":{"nodePointX":0,"nodePointY":0},"scale":1},{"alpha":1,"rotation":0,"position":{"nodePointX":1,"nodePointY":1},"scale":1}]}}	$>
+ */
+ 
+@keyframes pathLine {
+	
+}
+
+.pathLine {
+  animation-duration: 1s;
+}

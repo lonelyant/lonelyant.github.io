@@ -1,0 +1,13 @@
+/* 
+  Name:			MoveHand
+  Type:			Entrance
+  Description:	
+  Version:		2.0	
+  locale:		{"zh-Hans":"手形推送", "en-US":"Move Hand"}
+  Class:        MoveHand
+  Parameter:    <^   {"Options":{"direction":3}}   $>
+ */
+ 
+@keyframes moveHand {
+	
+}

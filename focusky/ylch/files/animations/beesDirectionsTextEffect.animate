@@ -1,0 +1,17 @@
+/* 
+  Name:			BeesDirectionsTextEffect
+  Type:			Entrance
+  Description:	BeesDirectionsTextEffect Effect
+  Version:		2.0	
+  locale:		{"zh-Hans":"蜜蜂指路", "en-US":"Bee"}
+  LimitType:    MText
+  Class:        BeesDirectionsTextEffect
+ */
+ 
+@keyframes beesDirectionsTextEffect{
+	
+}
+
+.beesDirectionsTextEffect{
+	animation-duration: 20s;
+}
